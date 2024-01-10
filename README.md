@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
-<h3 align="center">Backend and Game Developer</h3>
+<h3 align="center">Game and Backend Developer</h3>
 
 - 💬 Ask me about **ASP, C#, SQL, UNITY**
 
