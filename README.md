@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://cdn.leonardo.ai/users/06d7dbff-1a9d-4073-8681-3972053b43c4/generations/c1715e4e-f20d-4dc9-a2c0-2864e992c76e/Leonardo_Vision_XL_There_is_a_1_programmer_boy_at_her_tiny_roo_0.jpg?w=512](https://cdn.leonardo.ai/users/06d7dbff-1a9d-4073-8681-3972053b43c4/generations/38784e10-f0fa-4c35-a585-622c65d86c13/Leonardo_Vision_XL_There_is_a_1_programmer_boy_at_her_tiny_roo_0.jpg)">
+<p align="center"><img src="https://cdn.leonardo.ai/users/06d7dbff-1a9d-4073-8681-3972053b43c4/generations/38784e10-f0fa-4c35-a585-622c65d86c13/Leonardo_Vision_XL_There_is_a_1_programmer_boy_at_her_tiny_roo_0.jpg">
 </p>
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
 <h3 align="center">Game and Backend Developer</h3>
